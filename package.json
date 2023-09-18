@@ -1,0 +1,21 @@
+{
+  "name": "js-guild",
+  "version": "1.0.2",
+  "description": "A Easy Way to interact with the Guilded API in JS",
+  "main": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guilded",
+    "api"
+  ],
+  "author": "verleihernix",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.6.2",
+    "guilded.js": "^2.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
